@@ -1,0 +1,6 @@
+{
+  "name": "Odoo 18",
+  "description": "Odoo 18 con wkhtmltopdf para EasyPanel.",
+  "entrypoint": "entrypoint.sh",
+  "port": 8069
+}
